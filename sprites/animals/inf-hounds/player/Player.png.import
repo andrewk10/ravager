@@ -2,11 +2,16 @@
 
 importer="texture"
 type="StreamTexture"
-valid=false
+path="res://.import/Player.png-6ca52490201f0575b1c2def4296682bd.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
-source_file="res://sprites/Buildings/Roads/Three Lanes/Three Lanes.jpg"
+source_file="res://sprites/animals/inf-hounds/player/Player.png"
+dest_files=[ "res://.import/Player.png-6ca52490201f0575b1c2def4296682bd.stex" ]
+
 [params]
 
 compress/mode=0

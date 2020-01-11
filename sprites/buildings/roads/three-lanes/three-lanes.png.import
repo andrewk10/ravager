@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Player.png-0313f6387da4afabeea90f178f900fc8.stex"
+path="res://.import/three-lanes.png-8a01ebab99d2648eb1952f85cc31cf57.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/Animals/Inf-Hounds/Player/Player.png"
-dest_files=[ "res://.import/Player.png-0313f6387da4afabeea90f178f900fc8.stex" ]
+source_file="res://sprites/buildings/roads/three-lanes/three-lanes.png"
+dest_files=[ "res://.import/three-lanes.png-8a01ebab99d2648eb1952f85cc31cf57.stex" ]
 
 [params]
 
